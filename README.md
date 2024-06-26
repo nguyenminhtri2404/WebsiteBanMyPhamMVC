@@ -12,7 +12,7 @@
 - Phân trang
 - Thêm sản phẩm vào giỏ hàng, cập nhật số lượng 1 sản phẩm trong giỏ hàng, xóa 1 sản phẩm ra khỏi giỏ hàng, xóa tất cả sản phẩm ra khỏi giỏ hàng (Ajax API)
 - Đặt hàng và nhận gmail gửi về xác nhận đã đặt hàng
-- Đăng ký tài khoản
+- Đăng nhập, Đăng ký tài khoản
 
 
 ## Công nghệ sử dụng:
