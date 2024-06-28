@@ -14,11 +14,9 @@
 - Đặt hàng và nhận gmail gửi về xác nhận đã đặt hàng
 - Đăng nhập, Đăng ký tài khoản
 
-
 ## Công nghệ sử dụng:
 - Frontend: HTML, CSS, Bootstrap 5
 - Backend: ASP.NET MVC, LINQ
-- Cơ sở dữ liệu SQL Server (EF Code First)
 ## Chức năng đảm nhận:
 - Thiết kế giao diện website
 - Thiết kế database
