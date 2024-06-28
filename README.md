@@ -17,7 +17,7 @@
 
 ## Công nghệ sử dụng:
 - Frontend: HTML, CSS, Bootstrap 5
-- Backend: .NET C# theo mô hình MVC
+- Backend: ASP.NET MVC, LINQ
 - Cơ sở dữ liệu SQL Server (EF Code First)
 ## Chức năng đảm nhận:
 - Thiết kế giao diện website
